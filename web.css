@@ -1,0 +1,28 @@
+h3{
+    color: aqua;
+}
+h3{
+     color: blue;
+    background-color: greenyellow;
+    font-style: 5rem;
+    padding: 3rem;
+    margin-bottom: 0.5rem;
+  
+    text-align: center;
+}
+.web{
+    width: 20%;
+    height: 10vh;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+    margin-right: 10px;
+}
+div{
+     color: blue;
+    background-color: green;
+    font-style: 8rem;
+    padding: 3rem;
+    margin-bottom: 2rem;
+    text-align: center;
+}
